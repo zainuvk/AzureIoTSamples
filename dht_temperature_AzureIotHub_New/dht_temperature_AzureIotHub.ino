@@ -1,7 +1,3 @@
-
-//static WiFiClientSecure sslClient; // for ESP8266
-
-
 static void sendCallback(IOTHUB_CLIENT_CONFIRMATION_RESULT result, void *userContextCallback)
 {
     if (IOTHUB_CLIENT_CONFIRMATION_OK == result)
@@ -37,20 +33,6 @@ static void sendMessage(IOTHUB_CLIENT_LL_HANDLE iotHubClientHandle, char *buffer
         IoTHubMessage_Destroy(messageHandle);
     }
 }
-
-
-/*void start()
-{
-    Serial.println("Start sending temperature and humidity data.");
-    messageSending = true;
-}
-
-void stop()
-{
-    Serial.println("Stop sending temperature and humidity data.");
-    messageSending = false;
-}
-*/
 
 
 
