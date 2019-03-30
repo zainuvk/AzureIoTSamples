@@ -1,0 +1,11 @@
+C:\Zain IOT\Blogpost\AzureIoTSamples\AzureTSI_WebAPI\AzureTSI_WebAPI\bin\Debug\netcoreapp2.0\AzureTSI_WebAPI.deps.json
+C:\Zain IOT\Blogpost\AzureIoTSamples\AzureTSI_WebAPI\AzureTSI_WebAPI\bin\Debug\netcoreapp2.0\AzureTSI_WebAPI.runtimeconfig.json
+C:\Zain IOT\Blogpost\AzureIoTSamples\AzureTSI_WebAPI\AzureTSI_WebAPI\bin\Debug\netcoreapp2.0\AzureTSI_WebAPI.runtimeconfig.dev.json
+C:\Zain IOT\Blogpost\AzureIoTSamples\AzureTSI_WebAPI\AzureTSI_WebAPI\bin\Debug\netcoreapp2.0\AzureTSI_WebAPI.dll
+C:\Zain IOT\Blogpost\AzureIoTSamples\AzureTSI_WebAPI\AzureTSI_WebAPI\bin\Debug\netcoreapp2.0\AzureTSI_WebAPI.pdb
+C:\Zain IOT\Blogpost\AzureIoTSamples\AzureTSI_WebAPI\AzureTSI_WebAPI\obj\Debug\netcoreapp2.0\AzureTSI_WebAPI.csprojAssemblyReference.cache
+C:\Zain IOT\Blogpost\AzureIoTSamples\AzureTSI_WebAPI\AzureTSI_WebAPI\obj\Debug\netcoreapp2.0\AzureTSI_WebAPI.csproj.CoreCompileInputs.cache
+C:\Zain IOT\Blogpost\AzureIoTSamples\AzureTSI_WebAPI\AzureTSI_WebAPI\obj\Debug\netcoreapp2.0\AzureTSI_WebAPI.AssemblyInfoInputs.cache
+C:\Zain IOT\Blogpost\AzureIoTSamples\AzureTSI_WebAPI\AzureTSI_WebAPI\obj\Debug\netcoreapp2.0\AzureTSI_WebAPI.AssemblyInfo.cs
+C:\Zain IOT\Blogpost\AzureIoTSamples\AzureTSI_WebAPI\AzureTSI_WebAPI\obj\Debug\netcoreapp2.0\AzureTSI_WebAPI.dll
+C:\Zain IOT\Blogpost\AzureIoTSamples\AzureTSI_WebAPI\AzureTSI_WebAPI\obj\Debug\netcoreapp2.0\AzureTSI_WebAPI.pdb
